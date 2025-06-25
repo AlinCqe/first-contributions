@@ -5,7 +5,7 @@
 
 # Primeras Contribuciones
 
-Es complicado. Resulta difícil la primera vez que haces algo, especialmente cuando colaboras con otros, pues cometer errores no es nada agradable. Nuestro objetivo es simplificar la forma en la que nuevos contribuidores de _código abierto_ aprenden y contribuyen por primera vez.
+Es complicado y a veces resulta difícil la primera vez que haces algo, especialmente cuando colaboras con otros, pues cometer errores y no es nada agradable. Nuestro objetivo es simplificar la forma en la que nuevos contribuidores de _código abierto_ aprenden y contribuyen por primera vez.
 
 Leer artículos y ver tutoriales puede ayudar, pero, ¿Qué mejor manera de practicar que hacer las cosas en un entorno de prácticas? Este proyecto se enfoca en guiar a principiantes durante su primera contribución. Si quieres lograr tu primera contribución, sigue los pasos que se muestran a continuación.
 
